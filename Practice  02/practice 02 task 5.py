@@ -1,0 +1,12 @@
+x = input('Enter any string:')
+y = input('Enter another string:')
+a = len(x)
+b = len(y)
+c = a + b
+print('Length of string 1:',end =' ')
+print(a,end=' ')
+print('bytes')
+print('Length of string 2:',end =' ')
+print(b,end=' ')
+print('bytes')
+print('Sum of both lengths:',c)
