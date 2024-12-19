@@ -1,0 +1,13 @@
+def main():
+    file = open('counts.txt','w')
+    file.write('1141'+'\n')
+    file.write('1126'+'\n')
+    file.write('1088'+'\n')
+    file.write('1115'+'\n')
+    file.write('1066'+'\n')
+    file.write('1142'+'\n')
+    file.write('1068'+'\n')
+    file.write('1124'+'\n')
+    file.write('1130'+'\n')
+    file.close()
+main()
